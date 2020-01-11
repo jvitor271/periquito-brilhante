@@ -1,0 +1,2 @@
+# periquito-brilhante
+Como configurar 
